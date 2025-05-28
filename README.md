@@ -125,4 +125,7 @@ To test the metrics use:
 $ curl http://<host>:8080/api/cart/metrics
 $ curl http://<host>:8080/api/payment/metrics
 ```
-
+## Source
+https://mrcloudbook.com/robot-shop-a-comprehensive-exploration-of-its-3-tier-architecture-8-services-and-2-databases/  
+https://devopscirrus.hashnode.dev/exploring-the-3-tier-architecture-8-services-and-2-databases-of-robot-shop-a-comprehensive-overview  
+https://www.youtube.com/watch?v=8T0UnSgywzY
